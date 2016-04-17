@@ -1,0 +1,5 @@
+# npm module install directories
+node_modules
+jspm_packages
+bower_packages
+
